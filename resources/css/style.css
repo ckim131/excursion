@@ -20,7 +20,7 @@ html {
   font-size: 42px;
 }
 
-#h3 {
+#h3, p {
   font-size: 21px;
   color: gray;
 }
